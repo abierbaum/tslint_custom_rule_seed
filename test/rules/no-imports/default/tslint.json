@@ -1,4 +1,5 @@
 {
+  "rulesDirectory": "./rules",
   "rules": {
     "no-imports": true
   }
