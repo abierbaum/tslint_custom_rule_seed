@@ -5,6 +5,6 @@
 	"command": "./run_tests.sh",
 	"isShellCommand": true,
 	"args": [],
-	"showOutput": "silent",
+	"showOutput": "always",
 	"problemMatcher": "$tsc"
 }

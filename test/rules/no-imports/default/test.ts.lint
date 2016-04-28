@@ -1,9 +1,9 @@
+import * as '_' from 'lodash';
+~~~~~~~~~~~~~~~      [import statement forbidden]
+
 const octopus = 5;
-      ~~~~~~~      [Variables named after animals are not allowed!]
 
 let giraffe: number, tiger: number;
-    ~~~~~~~                 [Variables named after animals are not allowed!]
-                     ~~~~~  [Variables named after animals are not allowed!]
 
 const tree = 5;
 const skyscraper = 100;
